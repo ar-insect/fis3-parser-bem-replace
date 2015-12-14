@@ -1,0 +1,19 @@
+{
+  "name": "fis3-parser-bem-replace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ar-insect/fis3-parser-bem-replace.git"
+  },
+  "author": "ar-insect",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ar-insect/fis3-parser-bem-replace/issues"
+  },
+  "homepage": "https://github.com/ar-insect/fis3-parser-bem-replace#readme"
+}
